@@ -1,4 +1,4 @@
-# Quasar App (vuejs_googlemapsapi_markers)
+# Create markers on google map (Quasar.dev, Javascript api)
 
 A Quasar Framework app
 
